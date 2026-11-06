@@ -1,0 +1,52 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/*
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+*.code-workspace
+.vsconfig
+
+# Compiled / debug files
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.so
+*.dylib
+*.a
+*.o
+
+# Plugins (generated)
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp / backup
+*.tmp
+*.log
+*.bak
